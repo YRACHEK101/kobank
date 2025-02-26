@@ -95,23 +95,23 @@ export const footerLinks = [
         links: [
             {
                 name: "Contenu",
-                link: "https://www.hoobank.com/content/",
+                link: "https://www.KoBank.com/content/",
             },
             {
                 name: "Comment ça marche",
-                link: "https://www.hoobank.com/how-it-works/",
+                link: "https://www.KoBank.com/how-it-works/",
             },
             {
                 name: "Créer",
-                link: "https://www.hoobank.com/create/",
+                link: "https://www.KoBank.com/create/",
             },
             {
                 name: "Explorer",
-                link: "https://www.hoobank.com/explore/",
+                link: "https://www.KoBank.com/explore/",
             },
             {
                 name: "Termes & Services",
-                link: "https://www.hoobank.com/terms-and-services/",
+                link: "https://www.KoBank.com/terms-and-services/",
             },
         ],
     },
@@ -121,23 +121,23 @@ export const footerLinks = [
         links: [
             {
                 name: "Centre d'aide",
-                link: "https://www.hoobank.com/help-center/",
+                link: "https://www.KoBank.com/help-center/",
             },
             {
                 name: "Partenaires",
-                link: "https://www.hoobank.com/partners/",
+                link: "https://www.KoBank.com/partners/",
             },
             {
                 name: "Suggestions",
-                link: "https://www.hoobank.com/suggestions/",
+                link: "https://www.KoBank.com/suggestions/",
             },
             {
                 name: "Blog",
-                link: "https://www.hoobank.com/blog/",
+                link: "https://www.KoBank.com/blog/",
             },
             {
                 name: "Bulletins d'information",
-                link: "https://www.hoobank.com/newsletters/",
+                link: "https://www.KoBank.com/newsletters/",
             },
         ],
     },
@@ -147,11 +147,11 @@ export const footerLinks = [
         links: [
             {
                 name: "Nos partenaires",
-                link: "https://www.hoobank.com/our-partner/",
+                link: "https://www.KoBank.com/our-partner/",
             },
             {
                 name: "Devenir partenaire",
-                link: "https://www.hoobank.com/become-a-partner/",
+                link: "https://www.KoBank.com/become-a-partner/",
             },
         ],
     },

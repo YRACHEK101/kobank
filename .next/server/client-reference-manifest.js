@@ -1672,6 +1672,13 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/Users/yr/Desktop/kobank/styles/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "/Users/yr/Desktop/kobank/public/assets/Discount.svg": {
       "id": "(app-client)/./public/assets/Discount.svg",
       "name": "*",
@@ -2431,13 +2438,6 @@ self.__RSC_MANIFEST={
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
-    },
-    "/Users/yr/Desktop/kobank/styles/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     }
   }
 }
