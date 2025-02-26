@@ -12,7 +12,7 @@ KoBank is a sophisticated financial services landing page developed with Next.js
 
 ### [Live Demo](https://kobank.vercel.app/) | [Template Source](https://getnextjsthemes.com/)
 
-![KoBank Preview](https://via.placeholder.com/1200x600)
+![KoBank Preview](https://kobank.vercel.app/)
 
 ## ✨ Features
 
